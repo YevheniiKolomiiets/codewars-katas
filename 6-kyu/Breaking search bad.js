@@ -1,0 +1,1 @@
+const search = searchTerm => TITLES.filter(x => ~x.search(new RegExp(searchTerm, 'gi')));

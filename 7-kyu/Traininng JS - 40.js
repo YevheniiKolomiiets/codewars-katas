@@ -1,0 +1,1 @@
+var regex=/(http(s)?):\/\/(www\.)?[a-z0-9.]{2,256}\.(com\.net|com|net)/ig;
